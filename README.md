@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Hello, my name is Tiago Trindade. I am a molecular Biosciences student from Heidelberg University and currently completely new to Github! 
+
+Recently I developed a Temperature/Time Prediction Tool for Developmental Stages of Medaka, the model organism im working with! This was done with Python and I created a GUI with React.
+
+Currently very interested in learning how to work with CNNs or in general machine learning and contributing on Projects with others!
+
 <!--
 **Tiagocdt/Tiagocdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
