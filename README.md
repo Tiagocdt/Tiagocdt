@@ -2,7 +2,7 @@
 
 Hello, my name is Tiago Cordeiro da Trindade. I am a masters student of molecular Biosciences from Heidelberg University.
 
-Currently im working in the field of developmental and stem cell biology specificly in a fish model at EMBL.
+Currently im working in the field of developmental and stem cell biology specificly in a fish model called medaka at EMBL.
 Recently I developed tools for the segmentation and annotation of HT-Microscopy derived images. 
 
 As you can see in my commit history of some of my repos im using Claude extensively for writing and debugging code. Im also writing in python and not binary and im also using a laptop instead of punch cards. Hope no one judges me for that.
