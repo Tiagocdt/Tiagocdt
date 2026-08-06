@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello, my name is Tiago Trindade. I am a master student of molecular Biosciences from Heidelberg University.
+Hello, my name is Tiago Cordeiro da Trindade. I am a masters student of molecular Biosciences from Heidelberg University.
 
 Currently im working in the field of developmental and stem cell biology specificly in a fish model at EMBL.
 Recently I developed tools for the segmentation and annotation of HT-Microscopy derived images. 
