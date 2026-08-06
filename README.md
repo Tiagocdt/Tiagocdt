@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-Hello, my name is Tiago Trindade. I am a molecular Biosciences student from Heidelberg University and currently completely new to Github! 
+Hello, my name is Tiago Trindade. I am a master student of molecular Biosciences from Heidelberg University.
 
-Recently I developed a Temperature/Time Prediction Tool for Developmental Stages of Medaka, the model organism im working with! This was done with Python and I created a GUI with React.
+Currently im working in the field of developmental and stem cell biology specificly in a fish model at EMBL.
+Recently I developed tools for the segmentation and annotation of HT-Microscopy derived images. 
+
+As you can see in my commit history of some of my repos im using Claude extensively for writing and debugging code. Im also writing in python and not binary and im also using a laptop instead of punch cards. Hope no one judges me for that.
 
 Currently very interested in learning how to work with CNNs or in general machine learning and contributing on Projects with others!
 
